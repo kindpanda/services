@@ -9,6 +9,7 @@
     "url": "https://github.com/kindpanda/services"
   },
   "engines": {
+    "node": "^10.15.3",
     "yarn": ">= 0.18.0"
   },
   "scripts": {
